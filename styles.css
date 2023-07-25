@@ -1,7 +1,170 @@
 *{
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
     list-style-type:none;
+    box-sizing: border-box;
     text-decoration: none;
+}
+.top{
+background-color: rgb(255, 248, 249);
+display: flex;
+justify-content: space-around;
+}
+
+.GIFT{
+display: flex;
+
+}
+.PHONE{
+display: flex;
+}
+
+li{
+padding: 7px;
+
+}
+
+.middle{
+display: flex;
+justify-content: space-evenly;
+background-color: whitesmoke;
+}
+
+.sil{
+    font-size:  50px;
+    font-family:var(0rcap) ;
+    margin-left: 300px;
+}
+
+.mid{
+    display:flex;
+margin-left: 100px;
+padding-top: 22px;
+}
+.icons{
+    padding-top: 28px;
+    margin-left: 300px;
+
+}
+i{
+padding:3px;
+
+
+
+}
+li{
+padding: 7px;
+
+
+}
+
+.second{
+display: flex;
+justify-content: space-around;
+background: rgb(205, 121, 135);
+margin-top: 10px;
+height: 500px;
+}
+
+.one{
+padding-top: 105px;
+
+}
+
+.ult{
+    padding:8px;
+    margin-left: 30px;
+}
+
+.com{
+    padding: 8px;
+    font-size:30px;
+}
+
+button{
+  margin-top: 20px;
+    background-color: red;
+    border: none;
+    align-items: center;
+    padding: 8px;
+margin-left: 25%;
+color: white;
+}
+
+.pro{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.pic{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.far{
+color:red;
+
+}
+.pur{
+text-align: center;
+}
+.off{
+    display:flex;
+    justify-content: space-around;
+    background-color: bisque;
+    margin-top: 50px;
+}
+.words{
+    padding-top: 100px;
+}
+.per{
+    margin-top: 40px;
+    margin-left: 30px;
+}
+.all{
+    margin-top: 40px;
+}
+.most{
+    text-align: center;
+    margin-top: 40px;
+}
+.wom{
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+}
+.quad{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    text-align: center;
+    padding: 30px;
+}
+
+.mon{
+    border: 1px solid rgb(178, 166, 166);
+    margin-right: 20px;
+    padding: 30px;
+}
+.fre{
+    border: 1px solid rgb(178, 166, 166);
+    margin-right: 20px;
+    padding: 30px;
+
+}
+.alw{
+    border: 1px solid rgb(178, 166, 166);
+    margin-right: 20px;
+    padding: 30px;
+}
+.sec{
+    border: 1px solid rgb(178, 166, 166);
+    margin-right: 20px;
+    padding: 30px;
+
+}
+
+.tre{
+    text-align: center;
+    margin-top: 30px;
 }
